@@ -5,10 +5,10 @@
 ##  Arbetsgång
 
 Projektet följer dessa steg.
-1. Projektplan
-2. Mockups
-3. Prototype och Stilguide
-4. Rapport
+1.  Projektplan
+2.  Mockups
+3.  Prototype och Stilguide
+4.  Rapport
 
 __En inlämning (eller flera) behövs vid varje steg.__
 ## Projektplan.
