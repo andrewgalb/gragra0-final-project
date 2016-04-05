@@ -5,6 +5,7 @@
 ##  Arbetsgång
 
 Projektet följer dessa steg.
+
 1.  Projektplan
 2.  Mockups
 3.  Prototype och Stilguide
