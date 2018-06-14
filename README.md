@@ -1,6 +1,6 @@
 # Gränssnittdesign Slutprojekt
 
-##### Då var det dags för slutprojektet i ämnet gränssnittdesign. Tanken här är att du ska få använda dig av allt du har lärt dig under kursern. Du ska ta fram ett prototype efter en klients önskemål. __Observera att här finns höga krav på dokumentation såväl som det slutgiltiga prototypen__.
+Då var det dags för slutprojektet i ämnet gränssnittdesign. Tanken här är att du ska få använda dig av allt du har lärt dig under kursern. Du ska ta fram ett prototype efter en klients önskemål. __Observera att här finns höga krav på dokumentation såväl som det slutgiltiga prototypen__.
 
 ##  Arbetsgång
 
@@ -12,7 +12,7 @@ Projektet följer dessa steg.
 4.  Rapport
 
 __En inlämning (eller flera) behövs vid varje steg.__
-## Projektplan.
+## Projektplan
 Första steget i slutprojektet är att ta fram ett projektplan. Innehållet i planen ska vara detaljerat och bör beskriva bl.a. bakgrunden till projektet, en noggran analys av målgrupperna, någon sorts planering över projektet (med tid och arbetsuppgifter inräknade...se Gant Chart) samt andra faktorer som påverkar projektet.
 
 1.	Bakgrund
